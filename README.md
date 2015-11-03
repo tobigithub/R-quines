@@ -12,6 +12,6 @@ Quines are pieces of computer code that can self-replicate or self-reproduce the
 * excretion
 * eating
 
-This is a collection of R code that inputs "something something something" and outputs the same "something something something".
+This is a collection of R code that inputs "something something something" and outputs the same "something something something". So, no worries only one sign of life confirmed. 42.
 
 -------------------------------------------
