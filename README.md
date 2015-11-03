@@ -1,5 +1,5 @@
 # R-quines
-R quines or self replicating R code examples
+
 -------------------------------------------
 
 Quines are pieces of computer code that can self-replicate or self-reproduce themselves. Signs of life are:
