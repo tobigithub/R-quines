@@ -1,4 +1,4 @@
-# A quine is a self-reproducing or self-replicating program code
+# A quine is a self-reproducing or self-replicating program code. This is an R quine.
 # Source: http://stackoverflow.com/questions/6495962/constructing-quines-self-reproducing-functions-in-r
 # Source: kohske/Kohske Takahashi
 
